@@ -1,7 +1,7 @@
 {
-    "name": "babenkoivan/scout-elasticsearch-driver",
+    "name": "victord11/scout-elasticsearch-driver",
     "type": "library",
-    "description": "The Elasticsearch Driver for Laravel Scout",
+    "description": "The Elasticsearch Driver for Laravel Scout with support PHP 8",
     "keywords": [
         "elastic",
         "elasticsearch",
@@ -18,11 +18,16 @@
             "name": "Babenko Ivan",
             "email": "babenko.i.a@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Mazur Viktor",
+            "email": "victord11@ukr.net",
+            "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.1.3",
-        "elasticsearch/elasticsearch": ">=7.0 <7.4.0",
+        "php": "^7.1|^8.0",
+        "elasticsearch/elasticsearch": ">=7.0 <=7.11.0",
         "laravel/scout": "^7.0|^8.0"
     },
     "require-dev": {
