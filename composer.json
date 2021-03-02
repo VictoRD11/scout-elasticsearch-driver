@@ -1,7 +1,7 @@
 {
     "name": "victord11/scout-elasticsearch-driver",
     "type": "library",
-    "description": "The Elasticsearch Driver for Laravel Scout",
+    "description": "The Elasticsearch Driver for Laravel Scout with support PHP 8",
     "keywords": [
         "elastic",
         "elasticsearch",
