@@ -4,15 +4,17 @@
 
 ---
 
-[![Packagist](https://img.shields.io/packagist/v/babenkoivan/scout-elasticsearch-driver.svg)](https://packagist.org/packages/babenkoivan/scout-elasticsearch-driver)
-[![Packagist](https://img.shields.io/packagist/dt/babenkoivan/scout-elasticsearch-driver.svg)](https://packagist.org/packages/babenkoivan/scout-elasticsearch-driver)
-[![Build Status](https://travis-ci.com/babenkoivan/scout-elasticsearch-driver.svg?branch=master)](https://travis-ci.com/babenkoivan/scout-elasticsearch-driver)
+[![Packagist](https://img.shields.io/packagist/v/victord11/scout-elasticsearch-driver.svg)](https://packagist.org/packages/victord11/scout-elasticsearch-driver)
+[![Packagist](https://img.shields.io/packagist/dt/victord11/scout-elasticsearch-driver.svg)](https://packagist.org/packages/victord11/scout-elasticsearch-driver)
+[![Build Status](https://travis-ci.com/victord11/scout-elasticsearch-driver.svg?branch=master)](https://travis-ci.com/victord11/scout-elasticsearch-driver)
 [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/babenkoi)
 
 ---
 
 This package offers advanced functionality for searching and filtering data in Elasticsearch.
 Check out its [features](#features)!
+
+> 💥 with support PHP 8 💥
 
 ## Contents
 
@@ -44,8 +46,8 @@ Check out its [features](#features)!
 
 The package has been tested in the following configuration: 
 
-* PHP version &gt;=7.1.3, &lt;=7.3
-* Laravel Framework version &gt;=5.8, &lt;=6
+* PHP version &gt;=7.1.3, &gt;=8.0
+* Laravel Framework version &gt;=5.8, &gt;=6, &gt;=7, &gt;=8,
 * Elasticsearch version &gt;=7
 
 ## Installation
