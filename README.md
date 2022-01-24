@@ -6,15 +6,13 @@
 
 [![Packagist](https://img.shields.io/packagist/v/victord11/scout-elasticsearch-driver.svg)](https://packagist.org/packages/victord11/scout-elasticsearch-driver)
 [![Packagist](https://img.shields.io/packagist/dt/victord11/scout-elasticsearch-driver.svg)](https://packagist.org/packages/victord11/scout-elasticsearch-driver)
-[![Build Status](https://travis-ci.com/victord11/scout-elasticsearch-driver.svg?branch=master)](https://travis-ci.com/victord11/scout-elasticsearch-driver)
-[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/babenkoi)
 
 ---
 
 This package offers advanced functionality for searching and filtering data in Elasticsearch.
 Check out its [features](#features)!
 
-> 💥 with support PHP 8 💥
+> 💥 with support PHP 8 and Laravel 9 💥
 
 ## Contents
 
@@ -46,8 +44,8 @@ Check out its [features](#features)!
 
 The package has been tested in the following configuration: 
 
-* PHP version &gt;=7.1.3, &gt;=8.0
-* Laravel Framework version &gt;=5.8, &gt;=6, &gt;=7, &gt;=8,
+* PHP version &gt;=7.1.3, &gt;=8.0.2
+* Laravel Framework version &gt;=5.8, &gt;=6, &gt;=7, &gt;=8, &gt;=9
 * Elasticsearch version &gt;=7
 
 ## Installation
@@ -55,7 +53,7 @@ The package has been tested in the following configuration:
 Use composer to install the package:
 
 ```
-composer require babenkoivan/scout-elasticsearch-driver
+composer require victord11/scout-elasticsearch-driver
 ```
 
 If you are using Laravel version &lt;= 5.4 or [the package discovery](https://laravel.com/docs/5.5/packages#package-discovery)
