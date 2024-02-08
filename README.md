@@ -12,7 +12,7 @@
 This package offers advanced functionality for searching and filtering data in Elasticsearch.
 Check out its [features](#features)!
 
-> 💥 with support PHP 8 and Laravel 9 💥
+> 💥 with support PHP 8 and Laravel 10 💥
 
 ## Contents
 
@@ -45,7 +45,7 @@ Check out its [features](#features)!
 The package has been tested in the following configuration: 
 
 * PHP version &gt;=7.1.3, &gt;=8.0.2
-* Laravel Framework version &gt;=5.8, &gt;=6, &gt;=7, &gt;=8, &gt;=9
+* Laravel Framework version &gt;=5.8, &gt;=6, &gt;=7, &gt;=8, &gt;=9, &gt;=10
 * Elasticsearch version &gt;=7
 
 ## Installation
